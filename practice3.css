@@ -1,0 +1,38 @@
+body{
+	background: url("https://th.bing.com/th/id/R.2434a84085041c46207fb2068c64b90d?rik=oFnnyRMJt0cr9Q&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f8%2fa%2f6%2f687720.jpg&ehk=4gSA53lHrtsHOtU%2fxTlKMoh9P1%2fFSo25AduuTh2NHeU%3d&risl=&pid=ImgRaw&r=0");
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	color: black;
+	background-color: lightblue;
+}
+
+
+ul {
+	font-size: xx-large;
+	color: black;
+	font-family: cursive;
+}
+.apps{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+.apps div {
+	margin: 30px;
+	position: relative;
+}
+
+.apps1 {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+.apps1 div{
+	margin: 30px;
+	position: relative;
+}
